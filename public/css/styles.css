@@ -39,6 +39,7 @@ header a {
 
 .portrait {
     width: 250px;
+    src: local("../img/me.jpg");
 }
 
 input {
